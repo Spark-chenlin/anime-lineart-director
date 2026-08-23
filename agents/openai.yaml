@@ -1,4 +1,4 @@
 interface:
-  display_name: "日系动漫乱线速写提示词"
-  short_description: "生成有结构、有笔触层级的日系动漫手写乱线速写提示词"
-  default_prompt: "使用 $anime-scribble-sketch-prompt 为我的角色选择合适的手写乱线模式，并生成可直接生图的中文提示词。"
+  display_name: "日系动漫乱线速写导演"
+  short_description: "一句话自动选择构图、笔触和配色，生成动漫乱线速写"
+  default_prompt: "使用 $anime-scribble-sketch-prompt 画五条悟，酷一点，直接出图。"
