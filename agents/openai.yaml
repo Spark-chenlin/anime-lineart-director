@@ -1,0 +1,4 @@
+interface:
+  display_name: "日系动漫乱线速写提示词"
+  short_description: "将人物或场景需求转成高密度乱线速写风格的中文生图提示词"
+  default_prompt: "使用 $anime-scribble-sketch-prompt 把我的角色设定转成日系动漫乱线速写生图提示词。"
