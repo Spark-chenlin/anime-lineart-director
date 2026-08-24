@@ -1,4 +1,4 @@
 interface:
-  display_name: "日系动漫乱线速写导演"
-  short_description: "一句话自动选择构图、笔触和配色，生成动漫乱线速写"
-  default_prompt: "使用 $anime-scribble-sketch-prompt 画五条悟，酷一点，直接出图。"
+  display_name: "动漫手写乱线速写导演"
+  short_description: "一句话自动导演纯白底、结构清楚的日系动漫手写乱线速写"
+  default_prompt: "使用 $anime-scribble-sketch-prompt 画一个冷淡短发动漫男生，直接出图。"
