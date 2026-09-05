@@ -10,7 +10,7 @@ metadata:
 
 将简短自然语言转译成可执行的提示词或图片。以清晰动漫母稿、方向性手写线层、局部密度场和克制留白为视觉目标，组织当前人物需求对应的提示词。
 
-文中的“参考语料”和“参考标准”指本 Skill 风格规则的归纳来源；执行所需的线层、密度、构图与配色规则已整理在[视觉语法](references/visual-grammar.md)中，使用时无需另行获取原始参考图片。[作品画廊](https://spark-chenlin.github.io/anime-lineart-director-gallery/)提供生成效果示例。
+文中的“参考语料”和“参考标准”指本 Skill 风格规则的归纳来源；执行所需的线层、密度、构图与配色规则已整理在[视觉语法](references/visual-grammar.md)中，使用时无需另行获取原始参考图片。[作品画廊](https://lineart.chenlinplay.top/)提供生成效果示例。
 
 ## 默认交互
 

@@ -10,7 +10,7 @@
 
 这个 Skill 会先锁定人物、事件和构图，再组织结构轮廓、方向性排线、局部高密区、受保护的脸和手，以及大面积呼吸留白。最终结果保持在一套明确的视觉范围内：清晰动漫母稿、手写乱线、角色主色墨线和克制的海报设计。
 
-风格依据已整理在[视觉语法](references/visual-grammar.md)中，包含线层、密度、构图与配色规则；安装完整仓库即可使用，无需另行获取原始参考图片。可在[作品画廊](https://spark-chenlin.github.io/anime-lineart-director-gallery/)查看生成效果示例。
+风格依据已整理在[视觉语法](references/visual-grammar.md)中，包含线层、密度、构图与配色规则；安装完整仓库即可使用，无需另行获取原始参考图片。可在[作品画廊](https://lineart.chenlinplay.top/)查看生成效果示例。
 
 ## 可以处理
 
